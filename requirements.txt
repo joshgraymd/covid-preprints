@@ -1,0 +1,5 @@
+tqdm==4.48.0
+requests==2.24.0
+beautifulsoup4==4.9.1
+pandas==1.0.5
+eutils==0.6.0

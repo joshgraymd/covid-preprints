@@ -1,0 +1,12 @@
+.vscode/settings.json
+.ipynb_checkpoints/
+.Rproj.user
+data/*
+figures/*
+.Rhistory
+.DS_Store
+
+tests.ipynb
+*flat-file_v1s.csv
+*flat-file_v1s.psv
+data/altmetric-data/*
